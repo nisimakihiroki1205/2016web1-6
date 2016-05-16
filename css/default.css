@@ -1,5 +1,6 @@
 body{
-background-color:#D0E0C0;
+  background-color:#D0E0C0;
+}
 
 .photo{
   float:left;
@@ -14,6 +15,4 @@ th,td{
 .btn{
   -webkit-appearance:none;
   margin:5px;
-}
-
 }
