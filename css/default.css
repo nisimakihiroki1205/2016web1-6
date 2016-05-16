@@ -4,5 +4,8 @@ background-color:#D0E0C0;
   float:left;
   margin-right:30px;
 }
-
+.btn{
+  -webkit-appearance:none;
+  margin:5px;
+}
 }
