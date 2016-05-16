@@ -1,3 +1,8 @@
 body{
 background-color:#D0E0C0;
+.photo{
+  float:left;
+  margin-right:30px;
+}
+
 }
